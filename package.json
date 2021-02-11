@@ -1,6 +1,7 @@
 {
   "name": "mystockapp",
   "version": "0.1.0",
+  "homepage":"http://www.dplaylist.herokuapp.com",
   "private": true,
   "dependencies": {
     "15": "0.0.0",
