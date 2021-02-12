@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "./static/js/main.cde28798.chunk.js",
-    "main.js.map": "./static/js/main.cde28798.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.b2181f54.js",
-    "runtime-main.js.map": "./static/js/runtime-main.b2181f54.js.map",
-    "static/css/2.110c81d1.chunk.css": "./static/css/2.110c81d1.chunk.css",
-    "static/js/2.77580c88.chunk.js": "./static/js/2.77580c88.chunk.js",
-    "static/js/2.77580c88.chunk.js.map": "./static/js/2.77580c88.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.110c81d1.chunk.css.map": "./static/css/2.110c81d1.chunk.css.map",
-    "static/js/2.77580c88.chunk.js.LICENSE.txt": "./static/js/2.77580c88.chunk.js.LICENSE.txt",
-    "static/media/blueprint-icons.css": "./static/media/icons-20.cde033c5.eot"
+    "main.js": "/yangamusicapp/static/js/main.cde28798.chunk.js",
+    "main.js.map": "/yangamusicapp/static/js/main.cde28798.chunk.js.map",
+    "runtime-main.js": "/yangamusicapp/static/js/runtime-main.eac2da37.js",
+    "runtime-main.js.map": "/yangamusicapp/static/js/runtime-main.eac2da37.js.map",
+    "static/css/2.0986dd4c.chunk.css": "/yangamusicapp/static/css/2.0986dd4c.chunk.css",
+    "static/js/2.77580c88.chunk.js": "/yangamusicapp/static/js/2.77580c88.chunk.js",
+    "static/js/2.77580c88.chunk.js.map": "/yangamusicapp/static/js/2.77580c88.chunk.js.map",
+    "index.html": "/yangamusicapp/index.html",
+    "static/css/2.0986dd4c.chunk.css.map": "/yangamusicapp/static/css/2.0986dd4c.chunk.css.map",
+    "static/js/2.77580c88.chunk.js.LICENSE.txt": "/yangamusicapp/static/js/2.77580c88.chunk.js.LICENSE.txt",
+    "static/media/blueprint-icons.css": "/yangamusicapp/static/media/icons-20.cde033c5.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2181f54.js",
-    "static/css/2.110c81d1.chunk.css",
+    "static/js/runtime-main.eac2da37.js",
+    "static/css/2.0986dd4c.chunk.css",
     "static/js/2.77580c88.chunk.js",
     "static/js/main.cde28798.chunk.js"
   ]
