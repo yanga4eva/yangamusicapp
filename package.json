@@ -1,8 +1,7 @@
 {
   "name": "@yanga4eva/yangamusicapp",
   "version": "0.1.0",
-  "homepage": "http://yanga4eva.github.io/code",
-  "private": true,
+  "homepage": "http://yanga4eva.github.io/yangamusicapp",
   "dependencies": {
     "15": "0.0.0",
     "@blueprintjs/core": "^3.36.0",
