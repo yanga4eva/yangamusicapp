@@ -1,5 +1,5 @@
 {
-  "name": "code",
+  "name": "@yanga4eva/yangamusicapp",
   "version": "0.1.0",
   "homepage": "http://yanga4eva.github.io/code",
   "private": true,
@@ -71,7 +71,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanga4eva/code.git"
+    "url": "git://github.com/yanga4eva/yangamusicapp.git"
   },
   "keywords": [
     "playlist"
